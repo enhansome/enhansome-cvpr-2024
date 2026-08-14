@@ -1,0 +1,62 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "🏆 Challenges"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "👁️ Vision Transformers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "👁️💬 Vision-Language"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "👩🏾‍🏫 Tutorial"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📊 Datasets/Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📦 3D Vision"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧨 Diffusion"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧨Diffusion"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧩 Segmentation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🛠️ Workshop"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:20:44.514Z",
+    "original_repository": "harpreetsahota204/awesome-cvpr-2024",
+    "original_repository_sha": "7ab7bbf04473e9954084485982c703fb707fbc26",
+    "enhanced_repository": "enhansome/enhansome-cvpr-2024",
+    "enhanced_repository_description": null,
+    "title": "Awesome CVPR 2024 Papers, Workshops, Challenges, and Tutorials! with stars"
+  }
+}
