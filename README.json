@@ -1,59 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "🏆 Challenges"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "👁️ Vision Transformers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "👁️💬 Vision-Language"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "👩🏾‍🏫 Tutorial"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📊 Datasets/Benchmarks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📦 3D Vision"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧨 Diffusion"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧨Diffusion"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧩 Segmentation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🛠️ Workshop"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T03:14:10.889Z",
+    "last_updated": "2026-08-19T12:23:49.418Z",
     "original_repository": "harpreetsahota204/awesome-cvpr-2024",
+    "original_repository_id": 778984414,
     "original_repository_sha": "7ab7bbf04473e9954084485982c703fb707fbc26",
     "enhanced_repository": "enhansome/enhansome-cvpr-2024",
     "enhanced_repository_description": null,
