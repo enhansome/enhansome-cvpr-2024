@@ -1,7 +1,551 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DataCV Challenge",
+          "description": "The DataCV Challenge searches training sets for various targets in object detection. The datasets for the challenge consist of a data source pool, combining multiple existing detection datasets, and a newly introduced target dataset with diverse detection environments recorded across 100 countries. Test set A is publicly available on Github, while test set B is reserved for determining challenge awards. An evaluation server is provided for calculating test accuracy. Ethical considerations have been followed by blurring human faces and vehicle license plates to ensure individual privacy and validating copyright before distributing the datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752494560,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-01T04:08:27Z",
+            "owner": "yorkeyao",
+            "repo": "DataCV2024",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoccerNet-GSR'24 Challenge",
+          "description": "SoccerNet Game State Reconstruction (GSR) is a novel computer vision task involving the tracking and identification of sports players from a single moving camera to construct a video game-like minimap, without any specific hardware worn by the players. A new benchmark for Game State Reconstruction is introduced for this challenge, including a new dataset with 200 annotated soccer clips, a new evaluation metric, and a public baseline to serve as a starting point for the participants. Methods will be ranked according to their performance on the introduced metric on a held-out challenge set.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752980890,
+            "language": "Python",
+            "last_commit": "2026-05-02T09:21:50Z",
+            "owner": "SoccerNet",
+            "repo": "sn-gamestate",
+            "stars": 444
+          }
+        }
+      ],
+      "title": "🏆 Challenges"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Point Transformer V3: Simpler, Faster, Stronger",
+          "description": "Xiaoyang Wu, Li Jiang, Peng-Shuai Wang The Point Transformer V3 (PTv3) is a 3D point cloud transformer architecture that prioritizes simplicity and efficiency to enable scalability, overcoming the traditional trade-off between accuracy and speed in point cloud processing. It uses point cloud serialization, serialized attention, enhanced conditional positional encoding (xCPE), and simplified designs to improve efficiency. PTv3 achieves state-of-the-art performance across over 20 downstream tasks spanning indoor and outdoor scenarios, while offering superior speed and memory efficiency compared to previous point transformers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 728103628,
+            "language": "Python",
+            "last_commit": "2025-10-24T07:27:41Z",
+            "owner": "Pointcept",
+            "repo": "PointTransformerV3",
+            "stars": 1920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RepViT: Revisiting Mobile CNN From ViT Perspective",
+          "description": "Ao Wang, Hui Chen, Zijia Lin RepViT is a new lightweight convolutional neural network series for mobile devices. It combines efficient architectural choices from Vision Transformers with a standard CNN, MobileNetV3-L. Key steps include separating token mixer and channel mixer, reducing expansion ratio, using early convolutions as stem, employing a deeper downsampling layer, replacing the classifier with a simpler one, and using only 3x3 convolutions. RepViT outperforms existing CNNs and ViTs on vision tasks while maintaining favorable latency on mobile devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 667632599,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-14T10:08:26Z",
+            "owner": "THU-MIG",
+            "repo": "RepViT",
+            "stars": 1108
+          }
+        }
+      ],
+      "title": "👁️ Vision Transformers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vlogger: Make Your Dream A Vlog",
+          "description": "Shaobin Zhuang, Kunchang Li3, Xinyuan Chen Vlogger is an AI system that generates minute-level video blogs from user descriptions. It uses a Large Language Model (LLM) to break down the task into four stages: Script, Actor, ShowMaker, and Voicer. The ShowMaker uses a Spatial-Temporal Enhanced Block (STEB) to enhance spatial-temporal coherence. Vlogger can generate 5+ minute vlogs surpassing previous long video generation methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 743870556,
+            "language": "Python",
+            "last_commit": "2025-05-19T08:46:50Z",
+            "owner": "Vchitect",
+            "repo": "Vlogger",
+            "stars": 435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models",
+          "description": "Julio Silva-Rodríguez, Sina Hajimiri, Ismail Ben Ayed CLIP is a powerful vision-language model for visual recognition. However, fine-tuning it for small downstream tasks with limited labeled samples is challenging. Efficient transfer learning (ETL) methods adapt VLMs with few parameters, but require careful per-task hyperparameter tuning using large validation sets. To overcome this, the authors propose CLAP, a principled approach that adapts linear probing for few-shot learning. CLAP consistently outperforms ETL methods, providing an efficient and robust approach for few-shot adaptation of large vision-language models in realistic settings where hyperparameter tuning with large validation sets is not feasible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 720217062,
+            "language": "Python",
+            "last_commit": "2025-06-07T21:51:29Z",
+            "owner": "jusiro",
+            "repo": "CLAP",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alpha-CLIP: A CLIP Model Focusing on Wherever You Want",
+          "description": "Zeyi Sun, Ye Fang, Tong Wu Alpha-CLIP is an improved version of the CLIP model that focuses on specific regions of interest in images through an auxiliary alpha channel. It can enhance CLIP in different image-related tasks, including 2D and 3D image generation, captioning, and detection. Alpha-CLIP preserves CLIP's visual recognition ability and boosts zero-shot classification accuracy by 4.1% when using foreground masks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 724060384,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-07-20T15:03:41Z",
+            "owner": "SunzeY",
+            "repo": "AlphaCLIP",
+            "stars": 874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update",
+          "description": "Zhi Gao, Yuntao Du, Xintong Zhang CLOVA is a system that leverages large language models (LLMs) to generate programs that can accomplish various visual tasks using off-the-shelf visual tools. To overcome the limitation of fixed tools, CLOVA has a closed-loop framework that includes an inference phase, reflection phase, and learning phase. It also uses a multimodal global-local reflection scheme and three flexible methods to collect real-time training data. CLOVA's learning capability enables it to adapt to new environments, resulting in a 5-20% better performance on VQA, multiple-image reasoning, knowledge tagging, and image editing tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 775225790,
+            "language": "Python",
+            "last_commit": "2024-06-19T21:07:06Z",
+            "owner": "clova-tool",
+            "repo": "CLOVA-tool",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improved Visual Grounding through Self-Consistent Explanations",
+          "description": "Ruozhen He, Paola Cascante-Bonilla, Ziyan Yang This paper presents a strategy called SelfEQ. The aim of SelfEQ is to improve the ability of vision-and-language models to locate specific objects in an image. The proposed strategy involves adding paraphrases generated by a large language model to existing text-image datasets. The model is then fine-tuned to ensure that a phrase and its paraphrase map to the same region in the image. This promotes self-consistency in visual explanations, expands the model's vocabulary, and enhances the quality of object locations highlighted by gradient-based visual explanation methods like GradCAM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 711716739,
+            "language": "Python",
+            "last_commit": "2024-03-01T03:52:54Z",
+            "owner": "uvavision",
+            "repo": "SelfEQ",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation",
+          "description": "Ba Hung Ngo, Nhat-Tuong Do-Tran, Tuan-Ngoc Nguyen The paper introduces a new approach called Explicitly Class-specific Boundaries (ECB) for domain adaptation, which combines the strengths of Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) by training CNN on ViT. ECB uses ViT to determine class-specific decision boundaries and CNN to group target features based on those boundaries. This improves the quality of pseudo labels and reduces knowledge disparities. The paper also provides visualizations to demonstrate the effectiveness of the proposed ECB method.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 774960219,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-04T23:12:41Z",
+            "owner": "dotrannhattuong",
+            "repo": "ECB",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Link-Context Learning for Multimodal LLMs",
+          "description": "Yan Tai, Weichen Fan, Zhao Zhang The paper presents Link-Context Learning (LCL), a new approach that enables Multimodal Large Language Models (MLLMs) to learn new concepts from limited examples in a single conversation. The proposed training strategy fine-tunes MLLMs using contrast learning and balanced sampling from LCL and original tasks. The ISEKAI dataset is introduced to evaluate MLLMs' performance on LCL tasks. Experiments show that LCL-MLLM outperforms vanilla MLLMs on the ISEKAI dataset. The paper presents LCL as a promising paradigm for expanding MLLMs' abilities and paving the way for more human-like learning in multimodal models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 678699654,
+            "language": "Python",
+            "last_commit": "2024-05-16T08:38:41Z",
+            "owner": "isekai-portal",
+            "repo": "Link-Context-Learning",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration",
+          "description": "Qinghao Ye, Haiyang Xu, Jiabo Ye1 mPLUG-Owl2 is a multi-modal language model that improves text and multi-modal task performance. It uses a modularized network design with a language decoder as a universal interface for managing different modalities. It incorporates shared functional modules and a modality-adaptive module. It uses a two-stage training paradigm consisting of vision-language pre-training and joint vision-language instruction tuning. Experiments show it achieves SOTA results on multiple vision-language and pure-text benchmarks. It introduces novel architecture designs and training methods to enable modality collaboration, leading to strong performance in text-only and multi-modal tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 632244130,
+            "language": "Python",
+            "last_commit": "2025-04-02T12:30:45Z",
+            "owner": "X-PLUG",
+            "repo": "mPLUG-Owl",
+            "stars": 2539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OneLLM: One Framework to Align All Modalities with Language",
+          "description": "Jiaming Han, Kaixiong Gong, Yiyuan Zhang OneLLM aligns 8 modalities to language using a unified framework. It uses a frozen CLIP-ViT and a universal projection module (UPM) that mixes image projection experts. OneLLM progressively aligns modalities to the LLM, starting with image-text alignment and expanding to video, audio, point cloud, depth/normal map, IMU, and fMRI data. The authors curated a large multimodal instruction dataset to fine-tune OneLLM's multimodal understanding and reasoning capabilities. OneLLM performs excellently on 25 diverse multimodal benchmarks, including captioning, question answering, and reasoning tasks. OneLLM pioneers a unified and scalable MLLM framework that can align a wide range of modalities with language and achieve strong multimodal understanding through instruction finetuning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 723997853,
+            "language": "Python",
+            "last_commit": "2024-10-22T03:51:20Z",
+            "owner": "csuhan",
+            "repo": "OneLLM",
+            "stars": 666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation",
+          "description": "Qidong Huang, Xiaoyi Dong, Pan Zhang OPERA is a novel solution to alleviate hallucination in MLLMs. It introduces a penalty term and rollback strategy during beam-search decoding, targeting the root cause of self-attention patterns. It doesn't require additional data or training and has been proven effective in experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 725543443,
+            "language": "Python",
+            "last_commit": "2024-08-24T04:45:10Z",
+            "owner": "shikiw",
+            "repo": "OPERA",
+            "stars": 414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Describing Differences in Image Sets with Natural Language",
+          "description": "Lisa Dunlap, Yuhui Zhang, Xiaohan Wang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 725288905,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-05T00:19:55Z",
+            "owner": "Understanding-Visual-Datasets",
+            "repo": "VisDiff",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Let’s Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation",
+          "description": "Shanshan Zhong, Zhongzhan Huang, Shanghua Gao",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 725873462,
+            "language": "Python",
+            "last_commit": "2024-04-13T01:52:28Z",
+            "owner": "sail-sg",
+            "repo": "CLoT",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Osprey: Pixel Understanding with Visual Instruction Tuning",
+          "description": "Osprey is an approach that improves multimodal large language models' accuracy in understanding visual information. It uses fine-grained mask regions and a convolutional CLIP backbone to extract precise visual mask features from high-resolution inputs efficiently. The authors curated the Osprey-724K dataset with 724K samples to facilitate mask-based instruction tuning. Osprey outperforms previous state-of-the-art methods in various region understanding tasks, showcasing its new capability for pixel-level instruction tuning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 732724457,
+            "language": "Python",
+            "last_commit": "2025-08-19T05:52:00Z",
+            "owner": "CircleRadon",
+            "repo": "Osprey",
+            "stars": 843
+          }
+        }
+      ],
+      "title": "👁️💬 Vision-Language"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Benchmarking and Evaluating Large Video Generation Models",
+          "description": "Yaofang Liu, Xiaodong Cun, Xuebo Liu The paper proposes a comprehensive evaluation framework for large video generation models that have grown rapidly. Existing academic metrics are inadequate for evaluating these models trained on massive datasets. The proposed evaluation pipeline comprises prompt curation, objective evaluation, subjective studies, and opinion alignment. The models are evaluated based on 17 objective metrics covering visual quality, content quality, motion quality, and text-caption alignment. Additionally, it provides a comparison table of various video generation models across different metrics and capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 704125632,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-03T09:28:51Z",
+            "owner": "evalcrafter",
+            "repo": "EvalCrafter",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object",
+          "description": "Chenshuang Zhang, Fei Pan, Junmo Kim ImageNet-D is a new benchmark for evaluating neural network robustness in visual perception tasks. It generates synthetic images with diverse backgrounds, textures, and materials, making it more challenging than other synthetic datasets. Key features include diversified image generation, high visual fidelity, and significant accuracy reduction of various vision models. The benchmark is created by combining object categories and refining through human verification. ImageNet-D is effective in evaluating neural network robustness, as accuracy on it improves with accuracy on ImageNet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 771919313,
+            "language": "Python",
+            "last_commit": "2026-07-24T01:53:11Z",
+            "owner": "chenshuang-zhang",
+            "repo": "imagenet_d",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAPLM: A Real-World Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding",
+          "description": "Xu Cao, Tong Zhou, Yunsheng Ma The dataset contains 3D point cloud Bird's Eye View and high-resolution panoramic images of various traffic scenarios. It also includes detailed annotations at the feature, lane, and road levels. The dataset is designed for a Q&A task, where models will be evaluated based on their ability to answer questions about the traffic scenes such as the number of lanes, presence of intersections, and data quality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 693432743,
+            "language": "Python",
+            "last_commit": "2023-11-20T03:27:45Z",
+            "owner": "LLVM-AD",
+            "repo": "MAPLM",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polos: Multimodal Metric Learning from Human Feedback for Image Captioning",
+          "description": "Yuiga Wada, Kanta Kaneda, Daichi Saito, Komei Sugiura The Polaris dataset, used to train the model, contains 131,020 human judgments from 550 evaluators on the appropriateness of image captions. The dataset is much larger than existing ones and is capable of training image captioning metrics. The captions in Polaris are more diverse, collected from humans and generated by 10 modern image captioning models. This demonstrates the effectiveness and robustness of Polos compared to previous metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 764545837,
+            "language": "Python",
+            "last_commit": "2026-06-12T20:51:35Z",
+            "owner": "YuigaWada",
+            "repo": "Polos",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
+          "description": "Ziqi Huang, Yinan He, Jiashuo Yu VBench is a tool that evaluates video generation models across 16 quality dimensions. These dimensions fall under Video Quality and Video-Condition Consistency. VBench provides valuable insights by evaluating models across multiple dimensions, content categories, and comparing video vs image generation. The tool's authors plan to expand VBench to more models and video generation tasks. Checkout the leaderboard on HF here: https://huggingface.co/spaces/Vchitect/VBench_Leaderboard",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 724118604,
+            "language": "Python",
+            "last_commit": "2026-08-21T15:28:08Z",
+            "owner": "Vchitect",
+            "repo": "VBench",
+            "stars": 1745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoccerNet Game State Reconstruction",
+          "description": "Vladimir Somers, Victor Joos, Anthony Cioppa, Silvio Giancola, Seyed Abolfazl Ghasemzadeh, Floriane Magera, Baptiste Standaert, Amir Mohammad Mansourian, Xin Zhou, Shohreh Kasaei, Bernard Ghanem, Alexandre Alahi, Marc Van Droogenbroeck, Christophe De Vleeschouwer SoccerNet Game State Reconstruction (GSR) is a novel computer vision task involving the tracking and identification of sports players from a single moving camera to construct a video game-like minimap, without any specific hardware worn by the players. SoccerNet-GSR, the released dataset, includes 200 clips with 9.37M pitch localization annotations and 2.36M athlete positions on the pitch with their role, team & jersey number. Furthermore, a new performance metric 'GS-HOTA' is introduced to evaluate GSR methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752980890,
+            "language": "Python",
+            "last_commit": "2026-05-02T09:21:50Z",
+            "owner": "SoccerNet",
+            "repo": "sn-gamestate",
+            "stars": 444
+          }
+        }
+      ],
+      "title": "📊 Datasets/Benchmarks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ASH: Animatable Gaussian Splats for Efficient and Photoreal Human Rendering",
+          "description": "Haokai Pang, Heming Zhu ASH generates real-time photorealistic renderings of animatable human avatars using Gaussian splats attached to a deformable mesh template. The skeletal motion is encoded using pose-dependent normal maps, and the dynamic Gaussian parameters are learned using 2D convolutional architectures. This approach surpasses existing real-time human avatar rendering methods and represents a significant step towards producing real-time, high-fidelity, controllable human avatars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 777914426,
+            "language": "Python",
+            "last_commit": "2024-07-31T08:13:52Z",
+            "owner": "kv2000",
+            "repo": "ASH",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians",
+          "description": "Shenhan Qian, Tobias Kirschstein, Liam Schoneveld GaussianAvatars is a new technique for creating customizable photorealistic head avatars using a dynamic 3D representation based on 3D Gaussian splats. This approach allows for precise animation control while maintaining photorealistic rendering. The technique has shown impressive animation capabilities in challenging scenarios, such as reenactments from a driving video, where it outperforms existing techniques by a significant margin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 736315544,
+            "language": "Python",
+            "last_commit": "2026-02-11T10:28:19Z",
+            "owner": "ShenhanQian",
+            "repo": "GaussianAvatars",
+            "stars": 1050
+          }
+        }
+      ],
+      "title": "📦 3D Vision"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DemoFusion: Democratising High-Resolution Image Generation With No $$$",
+          "description": "Ruoyi Du,Dongliang Chang, Timothy M. Hospedales, Yi-Zhe Song, Zhanyu Ma DemoFusion is an extension that enables the generation of high-res images through an accessible and efficient inference procedure. It uses global-local denoising paths and introduces three techniques for coherent high-res generation: progressive upscaling, skip residual, and dilated sampling. DemoFusion unlocks the potential in existing open-source text-to-image models without additional training or prohibitive costs, democratizing high-res image synthesis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 711650878,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-10T01:33:13Z",
+            "owner": "PRIS-CV",
+            "repo": "DemoFusion",
+            "stars": 2041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DragDiffusion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 663801546,
+            "language": "Python",
+            "last_commit": "2024-01-29T13:25:43Z",
+            "owner": "Yujun-Shi",
+            "repo": "DragDiffusion",
+            "stars": 1259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models",
+          "description": "Shivangi Aneja, Justus Thies, Angela Dai FaceTalk is a novel method to generate 3D motion sequences of talking human heads from audio signals. It employs neural parametric head models with speech signals and a new latent diffusion model. The approach denoises Gaussian noise sequences iteratively and extracts mesh sequences using marching cubes from the frozen NPHM model. FaceTalk outperforms existing methods by 75% in perceptual user study evaluations and produces visually natural motion with diverse facial expressions and styles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 725655211,
+            "language": "Shell",
+            "last_commit": "2024-03-17T00:11:47Z",
+            "owner": "shivangi-aneja",
+            "repo": "FaceTalk",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models",
+          "description": "Ozgur Kara, Bariscan Kurtkaya, Hidir Yesiltepe RAVE is a fast and innovative method for zero-shot video editing that uses pre-trained text-to-image diffusion models. It preserves the original motion and structure of the input video while producing high-quality, temporally consistent edited videos. RAVE edits videos 25% faster than existing methods by efficiently leveraging spatio-temporal interactions between frames. It outperforms existing methods across diverse editing scenarios and requires no extra training or manual inputs. However, there are some limitations such as flickering issues for extreme shape edits in very long videos and fine detail flickering. Try the demo here: https://huggingface.co/spaces/ozgurkara/RAVE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 727519007,
+            "language": "Python",
+            "last_commit": "2025-02-11T18:43:26Z",
+            "owner": "RehgLab",
+            "repo": "RAVE",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors",
+          "description": "Dave Zhenyu Chen, Haoxuan Li, Hsin-Ying Lee SceneTex generates high-quality indoor scene textures using depth-to-image diffusion priors. Key features include optimization in RGB space, multiresolution texture field, and cross-attention decoder for global style consistency. Experiments show it outperforms prior methods, but limitations include occasional artifacts and inability to handle complex geometry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 724689156,
+            "language": "Python",
+            "last_commit": "2024-02-16T20:32:34Z",
+            "owner": "daveredrum",
+            "repo": "SceneTex",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models",
+          "description": "Lukas Höllein,Aljaž Božič, Norman Müller ViewDiff generates 3D-consistent images from different viewpoints of the same object or scene. The approach involves enhancing the U-Net architecture of pretrained text-to-image models with new layers, training on real-world multi-view datasets using a denoising process, and producing multi-view consistent images of the same object in a single forward denoising pass. The results show high visual quality with improved 3D consistency compared to existing methods.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 764681013,
+            "language": "Python",
+            "last_commit": "2026-04-13T23:42:17Z",
+            "owner": "facebookresearch",
+            "repo": "ViewDiff",
+            "stars": 382
+          }
+        }
+      ],
+      "title": "🧨Diffusion"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Amodal Ground Truth and Completion in the Wild",
+          "description": "Guanqi Zhan, Chuanxia Zheng, Weidi Xie The paper introduces amodal image segmentation which predicts masks for entire objects, including occluded parts. Previous methods used manual annotation, but the authors use 3D data to construct the MP3D-Amodal dataset with authentic amodal ground truth masks. Two architecture variants are explored: a two-stage OccAmodal model and a one-stage SDAmodal model. Their method achieves state-of-the-art performance on amodal segmentation datasets, including COCOA and the new MP3D-Amodal dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 652276170,
+            "language": "Python",
+            "last_commit": "2026-04-21T13:22:33Z",
+            "owner": "Championchess",
+            "repo": "Amodal-Completion-in-the-Wild",
+            "stars": 88
+          }
+        }
+      ],
+      "title": "🧩 Segmentation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Large Scale Holistic Video Understanding",
+          "description": "The main objective of the workshop is to establish a video benchmark integrating joint recognition of all the semantic concepts, as a single class label per task is often not sufficient to describe the holistic content of a video. The planned panel discussion with world’s leading experts on this problem will be a fruitful input and source of ideas for all participants. The community is invited to help to extend the HVU dataset that will spur research in video understanding as a comprehensive, multi-faceted problem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221724237,
+            "language": null,
+            "last_commit": "2021-03-11T09:33:18Z",
+            "owner": "holistic-video-understanding",
+            "repo": "HVU-Dataset",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "🛠️ Workshop"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T03:27:21.606Z",
+    "last_updated": "2026-08-24T14:40:12.177Z",
     "original_repository": "harpreetsahota204/awesome-cvpr-2024",
     "original_repository_id": 778984414,
     "original_repository_sha": "7ab7bbf04473e9954084485982c703fb707fbc26",
