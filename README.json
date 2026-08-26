@@ -51,7 +51,7 @@
             "last_commit": "2025-10-24T07:27:41Z",
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 1920
+            "stars": 1921
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2024-10-03T09:28:51Z",
             "owner": "evalcrafter",
             "repo": "EvalCrafter",
-            "stars": 195
+            "stars": 196
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-08-21T15:28:08Z",
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1746
+            "stars": 1747
           }
         },
         {
@@ -480,7 +480,7 @@
             "last_commit": "2024-02-16T20:32:34Z",
             "owner": "daveredrum",
             "repo": "SceneTex",
-            "stars": 239
+            "stars": 240
           }
         },
         {
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:33:09.117Z",
+    "last_updated": "2026-08-26T03:28:20.888Z",
     "original_repository": "harpreetsahota204/awesome-cvpr-2024",
     "original_repository_id": 778984414,
     "original_repository_sha": "7ab7bbf04473e9954084485982c703fb707fbc26",
