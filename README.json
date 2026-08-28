@@ -16,7 +16,8 @@
             "owner": "yorkeyao",
             "repo": "DataCV2024",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-05-02T09:21:50Z",
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 444
-          }
+            "stars": 445
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         }
       ],
       "title": "🏆 Challenges"
@@ -52,7 +54,8 @@
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
             "stars": 1923
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "THU-MIG",
             "repo": "RepViT",
             "stars": 1109
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         }
       ],
       "title": "👁️ Vision Transformers"
@@ -88,7 +92,8 @@
             "owner": "Vchitect",
             "repo": "Vlogger",
             "stars": 434
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "jusiro",
             "repo": "CLAP",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "SunzeY",
             "repo": "AlphaCLIP",
             "stars": 874
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "clova-tool",
             "repo": "CLOVA-tool",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "uvavision",
             "repo": "SelfEQ",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "dotrannhattuong",
             "repo": "ECB",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "isekai-portal",
             "repo": "Link-Context-Learning",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "X-PLUG",
             "repo": "mPLUG-Owl",
             "stars": 2539
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "csuhan",
             "repo": "OneLLM",
             "stars": 665
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -222,8 +235,9 @@
             "last_commit": "2024-08-24T04:45:10Z",
             "owner": "shikiw",
             "repo": "OPERA",
-            "stars": 414
-          }
+            "stars": 415
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "Understanding-Visual-Datasets",
             "repo": "VisDiff",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "sail-sg",
             "repo": "CLoT",
             "stars": 324
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "CircleRadon",
             "repo": "Osprey",
             "stars": 843
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         }
       ],
       "title": "👁️💬 Vision-Language"
@@ -289,7 +306,8 @@
             "owner": "evalcrafter",
             "repo": "EvalCrafter",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "chenshuang-zhang",
             "repo": "imagenet_d",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "LLVM-AD",
             "repo": "MAPLM",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "YuigaWada",
             "repo": "Polos",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -348,8 +369,9 @@
             "last_commit": "2026-08-21T15:28:08Z",
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1748
-          }
+            "stars": 1749
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -363,8 +385,9 @@
             "last_commit": "2026-05-02T09:21:50Z",
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 444
-          }
+            "stars": 445
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         }
       ],
       "title": "📊 Datasets/Benchmarks"
@@ -385,7 +408,8 @@
             "owner": "kv2000",
             "repo": "ASH",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -400,7 +424,8 @@
             "owner": "ShenhanQian",
             "repo": "GaussianAvatars",
             "stars": 1051
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         }
       ],
       "title": "📦 3D Vision"
@@ -421,7 +446,8 @@
             "owner": "PRIS-CV",
             "repo": "DemoFusion",
             "stars": 2041
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -436,7 +462,8 @@
             "owner": "Yujun-Shi",
             "repo": "DragDiffusion",
             "stars": 1259
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -451,7 +478,8 @@
             "owner": "shivangi-aneja",
             "repo": "FaceTalk",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -466,7 +494,8 @@
             "owner": "RehgLab",
             "repo": "RAVE",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -481,7 +510,8 @@
             "owner": "daveredrum",
             "repo": "SceneTex",
             "stars": 241
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         },
         {
           "node_type": "item",
@@ -496,7 +526,8 @@
             "owner": "facebookresearch",
             "repo": "ViewDiff",
             "stars": 382
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         }
       ],
       "title": "🧨Diffusion"
@@ -517,7 +548,8 @@
             "owner": "Championchess",
             "repo": "Amodal-Completion-in-the-Wild",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         }
       ],
       "title": "🧩 Segmentation"
@@ -538,14 +570,15 @@
             "owner": "holistic-video-understanding",
             "repo": "HVU-Dataset",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T14:25:07.007Z"
         }
       ],
       "title": "🛠️ Workshop"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:53:14.475Z",
+    "last_updated": "2026-08-28T14:25:07.007Z",
     "original_repository_info": {
       "archived": false,
       "id": 778984414,
