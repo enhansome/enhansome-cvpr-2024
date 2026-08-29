@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DataCV2024: The 2nd DataCV Challenge in conjunction with the CVPR 2024 Visual Dataset Understanding workshop",
+            "homepage": null,
             "id": 752494560,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-04-01T04:08:27Z",
+            "open_issues": 0,
             "owner": "yorkeyao",
             "repo": "DataCV2024",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -26,12 +31,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPRW'24] SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap (CVPR24 - CVSports workshop)",
+            "homepage": null,
             "id": 752980890,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-02T09:21:50Z",
+            "open_issues": 20,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 445
+            "stars": 445,
+            "topics": [
+              "bird-eye-view",
+              "detection",
+              "multi-object-tracking",
+              "re-identification",
+              "soccer",
+              "soccernet",
+              "sports",
+              "sports-analytics",
+              "tracking",
+              "video-understanding"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         }
@@ -48,12 +69,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'24 Oral] Official repository of Point Transformer V3 (PTv3)",
+            "homepage": null,
             "id": 728103628,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-24T07:27:41Z",
+            "open_issues": 124,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 1923
+            "stars": 1924,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -64,12 +90,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RepViT: Revisiting Mobile CNN From ViT Perspective [CVPR 2024] and RepViT-SAM: Towards Real-Time Segmenting Anything",
+            "homepage": "https://arxiv.org/abs/2307.09283",
             "id": 667632599,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-14T10:08:26Z",
+            "open_issues": 45,
             "owner": "THU-MIG",
             "repo": "RepViT",
-            "stars": 1109
+            "stars": 1109,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         }
@@ -86,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2024] Make Your Dream A Vlog",
+            "homepage": null,
             "id": 743870556,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-19T08:46:50Z",
+            "open_issues": 15,
             "owner": "Vchitect",
             "repo": "Vlogger",
-            "stars": 434
+            "stars": 434,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -102,12 +138,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'24] Validation-free few-shot adaptation of CLIP, using a well-initialized Linear Probe (ZSLP) and class-adaptive constraints (CLAP).",
+            "homepage": "https://jusiro.github.io/projects/clap",
             "id": 720217062,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-07T21:51:29Z",
+            "open_issues": 1,
             "owner": "jusiro",
             "repo": "CLAP",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "clip",
+              "few-shot-learning",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -118,12 +163,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] Alpha-CLIP: A CLIP Model Focusing on Wherever You Want",
+            "homepage": "https://aleafy.github.io/alpha-clip",
             "id": 724060384,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-20T15:03:41Z",
+            "open_issues": 38,
             "owner": "SunzeY",
             "repo": "AlphaCLIP",
-            "stars": 874
+            "stars": 874,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "vision-and-language",
+              "vision-language",
+              "vision-language-model",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -134,12 +191,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 775225790,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-19T21:07:06Z",
+            "open_issues": 2,
             "owner": "clova-tool",
             "repo": "CLOVA-tool",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -150,12 +212,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] Code for \"Improved Visual Grounding through Self-Consistent Explanations\".",
+            "homepage": "https://catherine-r-he.github.io/SelfEQ/",
             "id": 711716739,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-01T03:52:54Z",
+            "open_issues": 1,
             "owner": "uvavision",
             "repo": "SelfEQ",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "cvpr2024",
+              "grounding",
+              "visual-grounding"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -166,12 +237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2024] Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation",
+            "homepage": "https://dotrannhattuong.github.io/ECB/website/",
             "id": 774960219,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-12-04T23:12:41Z",
+            "open_issues": 0,
             "owner": "dotrannhattuong",
             "repo": "ECB",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -182,12 +258,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 678699654,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-16T08:38:41Z",
+            "open_issues": 2,
             "owner": "isekai-portal",
             "repo": "Link-Context-Learning",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "cvpr2024"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -198,12 +281,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mPLUG-Owl: The Powerful Multi-modal Large Language Model  Family",
+            "homepage": "https://www.modelscope.cn/studios/damo/mPLUG-Owl",
             "id": 632244130,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-02T12:30:45Z",
+            "open_issues": 101,
             "owner": "X-PLUG",
             "repo": "mPLUG-Owl",
-            "stars": 2539
+            "stars": 2539,
+            "topics": [
+              "alpaca",
+              "chatbot",
+              "chatgpt",
+              "damo",
+              "dialogue",
+              "gpt",
+              "gpt4",
+              "gpt4-api",
+              "huggingface",
+              "instruction-tuning",
+              "large-language-models",
+              "llama",
+              "mplug",
+              "mplug-owl",
+              "multimodal",
+              "pretraining",
+              "pytorch",
+              "transformer",
+              "video",
+              "visual-recognition"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -214,12 +323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] OneLLM: One Framework to Align All Modalities with Language",
+            "homepage": null,
             "id": 723997853,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-22T03:51:20Z",
+            "open_issues": 20,
             "owner": "csuhan",
             "repo": "OneLLM",
-            "stars": 665
+            "stars": 665,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -230,12 +344,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024 Highlight] OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation",
+            "homepage": null,
             "id": 725543443,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-24T04:45:10Z",
+            "open_issues": 8,
             "owner": "shikiw",
             "repo": "OPERA",
-            "stars": 415
+            "stars": 415,
+            "topics": [
+              "chatbot",
+              "chatgpt",
+              "gpt-4",
+              "large-multimodal-models",
+              "llama",
+              "multimodal",
+              "vision-language-learning",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -246,12 +374,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of \"Describing Differences in Image Sets with Natural Language\" (CVPR 2024 Oral)",
+            "homepage": "https://understanding-visual-datasets.github.io/VisDiff-website/",
             "id": 725288905,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-05T00:19:55Z",
+            "open_issues": 3,
             "owner": "Understanding-Visual-Datasets",
             "repo": "VisDiff",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -262,12 +395,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVPR'24, Official Codebase of our Paper: \"Let's Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation\".",
+            "homepage": "https://zhongshsh.github.io/CLoT",
             "id": 725873462,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-13T01:52:28Z",
+            "open_issues": 18,
             "owner": "sail-sg",
             "repo": "CLoT",
-            "stars": 324
+            "stars": 324,
+            "topics": [
+              "association",
+              "humor-generation",
+              "large-language-models",
+              "leap-of-thought",
+              "multimodal-deep-learning"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -278,12 +422,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2024] The code for \"Osprey: Pixel Understanding with Visual Instruction Tuning\"",
+            "homepage": null,
             "id": 732724457,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-19T05:52:00Z",
+            "open_issues": 25,
             "owner": "CircleRadon",
             "repo": "Osprey",
-            "stars": 843
+            "stars": 843,
+            "topics": [
+              "mllm",
+              "pixel-understanding",
+              "sam",
+              "visual-instruction-tuning"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         }
@@ -300,12 +454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] EvalCrafter: Benchmarking and Evaluating Large Video Generation Models",
+            "homepage": "http://evalcrafter.github.io",
             "id": 704125632,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-10-03T09:28:51Z",
+            "open_issues": 5,
             "owner": "evalcrafter",
             "repo": "EvalCrafter",
-            "stars": 196
+            "stars": 196,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -316,12 +475,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024 Highlight] ImageNet-D",
+            "homepage": "https://arxiv.org/abs/2403.18775",
             "id": 771919313,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-24T01:53:11Z",
+            "open_issues": 0,
             "owner": "chenshuang-zhang",
             "repo": "imagenet_d",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "benchmark",
+              "computer-vision",
+              "dataset",
+              "diffusion-models",
+              "generative-models",
+              "image-recognition",
+              "imagenet",
+              "large-language-model",
+              "multi-modality",
+              "out-of-distribution",
+              "recognition",
+              "robustness",
+              "stable-diffusion",
+              "synthetic-data",
+              "text-to-image-synthesis",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -332,12 +513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] MAPLM: A Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding",
+            "homepage": null,
             "id": 693432743,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-20T03:27:45Z",
+            "open_issues": 10,
             "owner": "LLVM-AD",
             "repo": "MAPLM",
-            "stars": 167
+            "stars": 167,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -348,12 +534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR24 Highlights] Polos: Multimodal Metric Learning from Human Feedback for Image Captioning",
+            "homepage": "https://yuiga.dev/polos",
             "id": 764545837,
             "language": "Python",
+            "license": "BSD-3-Clause-Clear",
             "last_commit": "2026-06-12T20:51:35Z",
+            "open_issues": 2,
             "owner": "YuigaWada",
             "repo": "Polos",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -364,12 +555,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2024 Highlight] VBench - We Evaluate Video Generation",
+            "homepage": "https://vchitect.github.io/VBench-project/",
             "id": 724118604,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T15:28:08Z",
+            "open_issues": 73,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1749
+            "stars": 1750,
+            "topics": [
+              "aigc",
+              "benchmark",
+              "dataset",
+              "evaluation-kit",
+              "gen-ai",
+              "stable-diffusion",
+              "text-to-video",
+              "video-generation"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -380,12 +585,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPRW'24] SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap (CVPR24 - CVSports workshop)",
+            "homepage": null,
             "id": 752980890,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-02T09:21:50Z",
+            "open_issues": 20,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 445
+            "stars": 445,
+            "topics": [
+              "bird-eye-view",
+              "detection",
+              "multi-object-tracking",
+              "re-identification",
+              "soccer",
+              "soccernet",
+              "sports",
+              "sports-analytics",
+              "tracking",
+              "video-understanding"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         }
@@ -402,12 +623,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Training and Demo code for: Ash: Animatable gaussian splats for efficient and photoreal human rendering (CVPR 2024)",
+            "homepage": "https://vcai.mpi-inf.mpg.de/projects/ash/",
             "id": 777914426,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-31T08:13:52Z",
+            "open_issues": 2,
             "owner": "kv2000",
             "repo": "ASH",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "computer-graphics",
+              "computer-vision",
+              "digital-human",
+              "neural-rendering",
+              "photorealistic-rendering",
+              "realtime-rendering"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -418,12 +651,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024 Highlight] The official repo for \"GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians\"",
+            "homepage": "https://shenhanqian.github.io/gaussian-avatars",
             "id": 736315544,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-11T10:28:19Z",
+            "open_issues": 28,
             "owner": "ShenhanQian",
             "repo": "GaussianAvatars",
-            "stars": 1051
+            "stars": 1051,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         }
@@ -440,12 +678,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let us democratise high-resolution generation! (CVPR 2024)",
+            "homepage": "https://ruoyidu.github.io/demofusion/demofusion.html",
             "id": 711650878,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-10-10T01:33:13Z",
+            "open_issues": 23,
             "owner": "PRIS-CV",
             "repo": "DemoFusion",
-            "stars": 2041
+            "stars": 2041,
+            "topics": [
+              "aigc",
+              "genai",
+              "high-resolution",
+              "low-resource",
+              "stable-diffusion"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -456,12 +705,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2024, Highlight] Official code for DragDiffusion",
+            "homepage": "https://yujun-shi.github.io/projects/dragdiffusion.html",
             "id": 663801546,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-29T13:25:43Z",
+            "open_issues": 38,
             "owner": "Yujun-Shi",
             "repo": "DragDiffusion",
-            "stars": 1259
+            "stars": 1259,
+            "topics": [
+              "artificial-intelligence",
+              "cvpr2024",
+              "diffusion-models",
+              "dragdiffusion",
+              "draggan",
+              "image-editing"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -472,12 +733,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models",
+            "homepage": "https://shivangi-aneja.github.io/projects/facetalk/",
             "id": 725655211,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-17T00:11:47Z",
+            "open_issues": 5,
             "owner": "shivangi-aneja",
             "repo": "FaceTalk",
-            "stars": 240
+            "stars": 240,
+            "topics": [
+              "3d-facial-animation",
+              "cvpr2024",
+              "diffusion-models",
+              "facial-animation",
+              "implicit-neural-representation",
+              "speech-driven",
+              "speech-driven-talking-face",
+              "talking-face-generation",
+              "talking-head"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -488,12 +764,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models [CVPR 2024]",
+            "homepage": "https://rave-video.github.io/",
             "id": 727519007,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-11T18:43:26Z",
+            "open_issues": 3,
             "owner": "RehgLab",
             "repo": "RAVE",
-            "stars": 312
+            "stars": 312,
+            "topics": [
+              "diffusion",
+              "stable-diffusion",
+              "video-editing"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -504,12 +789,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024 Highlight] SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors",
+            "homepage": "https://daveredrum.github.io/SceneTex/",
             "id": 724689156,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-16T20:32:34Z",
+            "open_issues": 8,
             "owner": "daveredrum",
             "repo": "SceneTex",
-            "stars": 241
+            "stars": 241,
+            "topics": [
+              "3d",
+              "aigc",
+              "cv",
+              "cvpr2024"
+            ]
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         },
@@ -520,12 +815,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ViewDiff generates high-quality, multi-view consistent images of a real-world 3D object in authentic surroundings. (CVPR2024).",
+            "homepage": null,
             "id": 764681013,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-13T23:42:17Z",
+            "open_issues": 7,
             "owner": "facebookresearch",
             "repo": "ViewDiff",
-            "stars": 382
+            "stars": 382,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         }
@@ -542,12 +842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 652276170,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-21T13:22:33Z",
+            "open_issues": 0,
             "owner": "Championchess",
             "repo": "Amodal-Completion-in-the-Wild",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         }
@@ -564,12 +869,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Holistic Video Understanding Dataset (ECCV 2020 Spotlight presentation)",
+            "homepage": "https://holistic-video-understanding.github.io/",
             "id": 221724237,
             "language": null,
+            "license": null,
             "last_commit": "2021-03-11T09:33:18Z",
+            "open_issues": 2,
             "owner": "holistic-video-understanding",
             "repo": "HVU-Dataset",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
         }
@@ -578,15 +888,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:25:07.007Z",
+    "last_updated": "2026-08-29T04:53:46.802Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
+      "homepage": null,
       "id": 778984414,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2024-06-13T18:16:13Z",
+      "open_issues": 0,
       "owner": "harpreetsahota204",
       "repo": "awesome-cvpr-2024",
-      "stars": 146
+      "stars": 146,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "awesome-readme",
+        "computervision",
+        "cvpr",
+        "cvpr2024",
+        "diffusion",
+        "multimodal"
+      ]
     },
     "original_repository_sha": "7ab7bbf04473e9954084485982c703fb707fbc26",
     "enhanced_repository": "enhansome/enhansome-cvpr-2024",
