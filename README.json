@@ -40,7 +40,7 @@
             "open_issues": 20,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 445,
+            "stars": 447,
             "topics": [
               "bird-eye-view",
               "detection",
@@ -78,7 +78,7 @@
             "open_issues": 124,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 1928,
+            "stars": 1934,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -332,7 +332,7 @@
             "open_issues": 20,
             "owner": "csuhan",
             "repo": "OneLLM",
-            "stars": 665,
+            "stars": 666,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -463,7 +463,7 @@
             "open_issues": 5,
             "owner": "evalcrafter",
             "repo": "EvalCrafter",
-            "stars": 196,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -594,7 +594,7 @@
             "open_issues": 20,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 445,
+            "stars": 447,
             "topics": [
               "bird-eye-view",
               "detection",
@@ -660,7 +660,7 @@
             "open_issues": 28,
             "owner": "ShenhanQian",
             "repo": "GaussianAvatars",
-            "stars": 1051,
+            "stars": 1054,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T07:52:39.805Z",
+    "last_updated": "2026-09-02T07:09:50.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
