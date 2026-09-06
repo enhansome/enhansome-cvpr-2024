@@ -78,7 +78,7 @@
             "open_issues": 124,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 1940,
+            "stars": 1941,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -660,7 +660,7 @@
             "open_issues": 28,
             "owner": "ShenhanQian",
             "repo": "GaussianAvatars",
-            "stars": 1054,
+            "stars": 1055,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:59:00.678Z",
+    "last_updated": "2026-09-06T07:10:53.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
