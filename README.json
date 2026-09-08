@@ -40,7 +40,7 @@
             "open_issues": 20,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 449,
+            "stars": 450,
             "topics": [
               "bird-eye-view",
               "detection",
@@ -78,7 +78,7 @@
             "open_issues": 124,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 1943,
+            "stars": 1945,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -172,7 +172,7 @@
             "open_issues": 38,
             "owner": "SunzeY",
             "repo": "AlphaCLIP",
-            "stars": 874,
+            "stars": 875,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -564,7 +564,7 @@
             "open_issues": 73,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1761,
+            "stars": 1764,
             "topics": [
               "aigc",
               "benchmark",
@@ -594,7 +594,7 @@
             "open_issues": 20,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 449,
+            "stars": 450,
             "topics": [
               "bird-eye-view",
               "detection",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T07:23:35.110Z",
+    "last_updated": "2026-09-08T07:18:04.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
