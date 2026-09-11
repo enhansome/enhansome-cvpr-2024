@@ -78,7 +78,7 @@
             "open_issues": 124,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 1946,
+            "stars": 1948,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -290,7 +290,7 @@
             "open_issues": 101,
             "owner": "X-PLUG",
             "repo": "mPLUG-Owl",
-            "stars": 2538,
+            "stars": 2539,
             "topics": [
               "alpaca",
               "chatbot",
@@ -463,7 +463,7 @@
             "open_issues": 5,
             "owner": "evalcrafter",
             "repo": "EvalCrafter",
-            "stars": 195,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -564,7 +564,7 @@
             "open_issues": 74,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1769,
+            "stars": 1770,
             "topics": [
               "aigc",
               "benchmark",
@@ -660,7 +660,7 @@
             "open_issues": 28,
             "owner": "ShenhanQian",
             "repo": "GaussianAvatars",
-            "stars": 1056,
+            "stars": 1058,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:22:28.753Z",
+    "last_updated": "2026-09-11T07:20:36.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
