@@ -78,7 +78,7 @@
             "open_issues": 124,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 1948,
+            "stars": 1949,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -564,7 +564,7 @@
             "open_issues": 74,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1770,
+            "stars": 1772,
             "topics": [
               "aigc",
               "benchmark",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T07:13:17.454Z",
+    "last_updated": "2026-09-13T07:31:08.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
