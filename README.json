@@ -75,10 +75,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-10-24T07:27:41Z",
-            "open_issues": 124,
+            "open_issues": 125,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 1949,
+            "stars": 1950,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -353,7 +353,7 @@
             "open_issues": 8,
             "owner": "shikiw",
             "repo": "OPERA",
-            "stars": 413,
+            "stars": 414,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -564,7 +564,7 @@
             "open_issues": 74,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1776,
+            "stars": 1777,
             "topics": [
               "aigc",
               "benchmark",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T07:57:51.150Z",
+    "last_updated": "2026-09-15T07:51:56.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
