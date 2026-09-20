@@ -99,7 +99,7 @@
             "open_issues": 45,
             "owner": "THU-MIG",
             "repo": "RepViT",
-            "stars": 1114,
+            "stars": 1115,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -564,7 +564,7 @@
             "open_issues": 74,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1782,
+            "stars": 1784,
             "topics": [
               "aigc",
               "benchmark",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:24:11.527Z",
+    "last_updated": "2026-09-20T07:47:42.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
