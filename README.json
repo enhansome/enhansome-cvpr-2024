@@ -40,7 +40,7 @@
             "open_issues": 20,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 454,
+            "stars": 455,
             "topics": [
               "bird-eye-view",
               "detection",
@@ -99,7 +99,7 @@
             "open_issues": 45,
             "owner": "THU-MIG",
             "repo": "RepViT",
-            "stars": 1117,
+            "stars": 1118,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -564,7 +564,7 @@
             "open_issues": 74,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1785,
+            "stars": 1787,
             "topics": [
               "aigc",
               "benchmark",
@@ -594,7 +594,7 @@
             "open_issues": 20,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 454,
+            "stars": 455,
             "topics": [
               "bird-eye-view",
               "detection",
@@ -714,7 +714,7 @@
             "open_issues": 38,
             "owner": "Yujun-Shi",
             "repo": "DragDiffusion",
-            "stars": 1256,
+            "stars": 1257,
             "topics": [
               "artificial-intelligence",
               "cvpr2024",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T08:01:43.464Z",
+    "last_updated": "2026-09-22T07:46:54.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
