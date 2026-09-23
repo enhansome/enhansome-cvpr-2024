@@ -99,7 +99,7 @@
             "open_issues": 45,
             "owner": "THU-MIG",
             "repo": "RepViT",
-            "stars": 1118,
+            "stars": 1121,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -383,7 +383,7 @@
             "open_issues": 3,
             "owner": "Understanding-Visual-Datasets",
             "repo": "VisDiff",
-            "stars": 135,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -564,7 +564,7 @@
             "open_issues": 74,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1787,
+            "stars": 1792,
             "topics": [
               "aigc",
               "benchmark",
@@ -660,7 +660,7 @@
             "open_issues": 28,
             "owner": "ShenhanQian",
             "repo": "GaussianAvatars",
-            "stars": 1061,
+            "stars": 1060,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:46:54.181Z",
+    "last_updated": "2026-09-23T07:49:52.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
