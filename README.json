@@ -78,7 +78,7 @@
             "open_issues": 125,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 1956,
+            "stars": 1958,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -99,7 +99,7 @@
             "open_issues": 45,
             "owner": "THU-MIG",
             "repo": "RepViT",
-            "stars": 1122,
+            "stars": 1123,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -564,7 +564,7 @@
             "open_issues": 73,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1796,
+            "stars": 1797,
             "topics": [
               "aigc",
               "benchmark",
@@ -660,7 +660,7 @@
             "open_issues": 28,
             "owner": "ShenhanQian",
             "repo": "GaussianAvatars",
-            "stars": 1062,
+            "stars": 1063,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -742,7 +742,7 @@
             "open_issues": 5,
             "owner": "shivangi-aneja",
             "repo": "FaceTalk",
-            "stars": 240,
+            "stars": 239,
             "topics": [
               "3d-facial-animation",
               "cvpr2024",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T08:19:57.034Z",
+    "last_updated": "2026-09-28T08:46:59.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
