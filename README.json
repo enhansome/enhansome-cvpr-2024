@@ -40,7 +40,7 @@
             "open_issues": 20,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 461,
+            "stars": 463,
             "topics": [
               "bird-eye-view",
               "detection",
@@ -78,7 +78,7 @@
             "open_issues": 125,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 1969,
+            "stars": 1970,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -564,7 +564,7 @@
             "open_issues": 73,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1812,
+            "stars": 1813,
             "topics": [
               "aigc",
               "benchmark",
@@ -594,7 +594,7 @@
             "open_issues": 20,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 461,
+            "stars": 463,
             "topics": [
               "bird-eye-view",
               "detection",
@@ -660,7 +660,7 @@
             "open_issues": 28,
             "owner": "ShenhanQian",
             "repo": "GaussianAvatars",
-            "stars": 1069,
+            "stars": 1070,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -687,7 +687,7 @@
             "open_issues": 23,
             "owner": "PRIS-CV",
             "repo": "DemoFusion",
-            "stars": 2038,
+            "stars": 2037,
             "topics": [
               "aigc",
               "genai",
@@ -798,7 +798,7 @@
             "open_issues": 8,
             "owner": "daveredrum",
             "repo": "SceneTex",
-            "stars": 243,
+            "stars": 244,
             "topics": [
               "3d",
               "aigc",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T08:38:17.204Z",
+    "last_updated": "2026-10-11T09:02:10.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
