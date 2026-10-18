@@ -78,7 +78,7 @@
             "open_issues": 125,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 1975,
+            "stars": 1976,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -290,7 +290,7 @@
             "open_issues": 101,
             "owner": "X-PLUG",
             "repo": "mPLUG-Owl",
-            "stars": 2540,
+            "stars": 2539,
             "topics": [
               "alpaca",
               "chatbot",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:02:23.553Z",
+    "last_updated": "2026-10-18T07:17:50.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
