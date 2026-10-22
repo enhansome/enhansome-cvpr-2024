@@ -40,7 +40,7 @@
             "open_issues": 20,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 467,
+            "stars": 468,
             "topics": [
               "bird-eye-view",
               "detection",
@@ -78,7 +78,7 @@
             "open_issues": 125,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 1978,
+            "stars": 1980,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -564,7 +564,7 @@
             "open_issues": 73,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1827,
+            "stars": 1829,
             "topics": [
               "aigc",
               "benchmark",
@@ -594,7 +594,7 @@
             "open_issues": 20,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 467,
+            "stars": 468,
             "topics": [
               "bird-eye-view",
               "detection",
@@ -632,7 +632,7 @@
             "open_issues": 2,
             "owner": "kv2000",
             "repo": "ASH",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T07:47:46.755Z",
+    "last_updated": "2026-10-22T07:43:29.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
