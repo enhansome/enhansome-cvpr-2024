@@ -78,7 +78,7 @@
             "open_issues": 125,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 1980,
+            "stars": 1981,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -431,7 +431,7 @@
             "open_issues": 25,
             "owner": "CircleRadon",
             "repo": "Osprey",
-            "stars": 843,
+            "stars": 844,
             "topics": [
               "mllm",
               "pixel-understanding",
@@ -564,7 +564,7 @@
             "open_issues": 73,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1829,
+            "stars": 1831,
             "topics": [
               "aigc",
               "benchmark",
@@ -660,7 +660,7 @@
             "open_issues": 28,
             "owner": "ShenhanQian",
             "repo": "GaussianAvatars",
-            "stars": 1074,
+            "stars": 1076,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T07:43:29.116Z",
+    "last_updated": "2026-10-23T07:40:57.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
