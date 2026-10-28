@@ -78,7 +78,7 @@
             "open_issues": 125,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 1982,
+            "stars": 1984,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -96,7 +96,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2024-06-14T10:08:26Z",
-            "open_issues": 46,
+            "open_issues": 45,
             "owner": "THU-MIG",
             "repo": "RepViT",
             "stars": 1129,
@@ -564,7 +564,7 @@
             "open_issues": 74,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1832,
+            "stars": 1834,
             "topics": [
               "aigc",
               "benchmark",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T08:00:03.549Z",
+    "last_updated": "2026-10-28T08:42:34.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
