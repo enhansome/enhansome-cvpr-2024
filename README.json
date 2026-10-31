@@ -69,12 +69,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "[CVPR'24 Oral] Official repository of Point Transformer V3 (PTv3)",
+            "description": "[CVPR'24 Oral] Official repository of Point Transformer V3 (PTv3). Also a pip-installable PyTorch + Triton package with pretrained Sonata, Concerto, and Utonia encoders.",
             "homepage": null,
             "id": 728103628,
             "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-10-24T07:27:41Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-31T06:54:00Z",
             "open_issues": 125,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
@@ -99,7 +99,7 @@
             "open_issues": 45,
             "owner": "THU-MIG",
             "repo": "RepViT",
-            "stars": 1133,
+            "stars": 1134,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -660,7 +660,7 @@
             "open_issues": 28,
             "owner": "ShenhanQian",
             "repo": "GaussianAvatars",
-            "stars": 1077,
+            "stars": 1079,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T08:45:11.535Z",
+    "last_updated": "2026-10-31T08:31:25.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
