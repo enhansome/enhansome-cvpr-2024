@@ -40,7 +40,7 @@
             "open_issues": 20,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 469,
+            "stars": 470,
             "topics": [
               "bird-eye-view",
               "detection",
@@ -353,7 +353,7 @@
             "open_issues": 8,
             "owner": "shikiw",
             "repo": "OPERA",
-            "stars": 415,
+            "stars": 416,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -564,7 +564,7 @@
             "open_issues": 74,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1834,
+            "stars": 1836,
             "topics": [
               "aigc",
               "benchmark",
@@ -594,7 +594,7 @@
             "open_issues": 20,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 469,
+            "stars": 470,
             "topics": [
               "bird-eye-view",
               "detection",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T09:22:54.733Z",
+    "last_updated": "2026-11-02T09:38:01.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
