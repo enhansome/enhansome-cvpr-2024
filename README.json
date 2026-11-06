@@ -78,7 +78,7 @@
             "open_issues": 125,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 1989,
+            "stars": 1991,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -687,7 +687,7 @@
             "open_issues": 23,
             "owner": "PRIS-CV",
             "repo": "DemoFusion",
-            "stars": 2033,
+            "stars": 2034,
             "topics": [
               "aigc",
               "genai",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T09:37:40.639Z",
+    "last_updated": "2026-11-06T09:30:09.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
