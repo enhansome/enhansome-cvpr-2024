@@ -78,7 +78,7 @@
             "open_issues": 125,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 1992,
+            "stars": 1994,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -172,7 +172,7 @@
             "open_issues": 38,
             "owner": "SunzeY",
             "repo": "AlphaCLIP",
-            "stars": 875,
+            "stars": 874,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -290,7 +290,7 @@
             "open_issues": 101,
             "owner": "X-PLUG",
             "repo": "mPLUG-Owl",
-            "stars": 2540,
+            "stars": 2539,
             "topics": [
               "alpaca",
               "chatbot",
@@ -332,7 +332,7 @@
             "open_issues": 20,
             "owner": "csuhan",
             "repo": "OneLLM",
-            "stars": 667,
+            "stars": 666,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -564,7 +564,7 @@
             "open_issues": 74,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1845,
+            "stars": 1844,
             "topics": [
               "aigc",
               "benchmark",
@@ -687,7 +687,7 @@
             "open_issues": 23,
             "owner": "PRIS-CV",
             "repo": "DemoFusion",
-            "stars": 2034,
+            "stars": 2033,
             "topics": [
               "aigc",
               "genai",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T09:59:50.783Z",
+    "last_updated": "2026-11-11T09:34:11.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
