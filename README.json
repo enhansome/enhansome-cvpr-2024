@@ -40,7 +40,7 @@
             "open_issues": 20,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 471,
+            "stars": 472,
             "topics": [
               "bird-eye-view",
               "detection",
@@ -78,7 +78,7 @@
             "open_issues": 125,
             "owner": "Pointcept",
             "repo": "PointTransformerV3",
-            "stars": 2000,
+            "stars": 2003,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -99,7 +99,7 @@
             "open_issues": 45,
             "owner": "THU-MIG",
             "repo": "RepViT",
-            "stars": 1133,
+            "stars": 1135,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -290,7 +290,7 @@
             "open_issues": 101,
             "owner": "X-PLUG",
             "repo": "mPLUG-Owl",
-            "stars": 2538,
+            "stars": 2539,
             "topics": [
               "alpaca",
               "chatbot",
@@ -594,7 +594,7 @@
             "open_issues": 20,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
-            "stars": 471,
+            "stars": 472,
             "topics": [
               "bird-eye-view",
               "detection",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T09:05:14.656Z",
+    "last_updated": "2026-11-15T09:36:10.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
