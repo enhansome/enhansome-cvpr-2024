@@ -99,7 +99,7 @@
             "open_issues": 45,
             "owner": "THU-MIG",
             "repo": "RepViT",
-            "stars": 1135,
+            "stars": 1136,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -660,7 +660,7 @@
             "open_issues": 28,
             "owner": "ShenhanQian",
             "repo": "GaussianAvatars",
-            "stars": 1080,
+            "stars": 1081,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -687,7 +687,7 @@
             "open_issues": 23,
             "owner": "PRIS-CV",
             "repo": "DemoFusion",
-            "stars": 2033,
+            "stars": 2032,
             "topics": [
               "aigc",
               "genai",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T09:36:10.475Z",
+    "last_updated": "2026-11-16T09:53:53.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
