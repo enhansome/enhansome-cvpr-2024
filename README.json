@@ -172,7 +172,7 @@
             "open_issues": 38,
             "owner": "SunzeY",
             "repo": "AlphaCLIP",
-            "stars": 874,
+            "stars": 875,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -431,7 +431,7 @@
             "open_issues": 25,
             "owner": "CircleRadon",
             "repo": "Osprey",
-            "stars": 844,
+            "stars": 845,
             "topics": [
               "mllm",
               "pixel-understanding",
@@ -564,7 +564,7 @@
             "open_issues": 75,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1845,
+            "stars": 1848,
             "topics": [
               "aigc",
               "benchmark",
@@ -773,7 +773,7 @@
             "open_issues": 3,
             "owner": "RehgLab",
             "repo": "RAVE",
-            "stars": 313,
+            "stars": 314,
             "topics": [
               "diffusion",
               "stable-diffusion",
@@ -851,7 +851,7 @@
             "open_issues": 0,
             "owner": "Championchess",
             "repo": "Amodal-Completion-in-the-Wild",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T09:53:53.810Z",
+    "last_updated": "2026-11-17T10:50:13.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
