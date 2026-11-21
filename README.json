@@ -37,7 +37,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-05-02T09:21:50Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
             "stars": 472,
@@ -591,7 +591,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-05-02T09:21:50Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "SoccerNet",
             "repo": "sn-gamestate",
             "stars": 472,
@@ -660,7 +660,7 @@
             "open_issues": 28,
             "owner": "ShenhanQian",
             "repo": "GaussianAvatars",
-            "stars": 1082,
+            "stars": 1083,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:07.007Z"
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T10:09:39.913Z",
+    "last_updated": "2026-11-21T09:56:56.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges from CVPR 2024",
